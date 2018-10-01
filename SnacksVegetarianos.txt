@@ -1,3 +1,7 @@
 Hummus
 Fruta
+<<<<<<< HEAD
 Patatas onduladas
+=======
+Patatas lisas
+>>>>>>> 36078b1f9d137625d47ed5b2338672db9afe7931
